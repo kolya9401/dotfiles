@@ -1,1 +1,2 @@
-Copy all files from `.config` to ~/.config/
+# Install
+Copy all files from `/config` to `~/.config/`
