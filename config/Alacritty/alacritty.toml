@@ -10,6 +10,10 @@ opacity = 0.92
 blur = true
 
 [font]
-normal.family = "JetBrains Mono"
+normal.family = "JetBrainsMono Nerd Font"
 normal.style = "Regular"
+
+bold.family = "JetBrainsMono Nerd Font"
+bold.style = "Bold"
+
 size = 14
